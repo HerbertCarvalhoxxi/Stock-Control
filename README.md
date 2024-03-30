@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
+## How to install
+
+Run `npm install` to install all dependencies
+
+## API
+
+You need run the API https://github.com/HerbertCarvalhoxxi/Stock-API
+
+Check the environments and the ` API_URL:`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
